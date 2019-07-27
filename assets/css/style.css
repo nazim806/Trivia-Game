@@ -1,0 +1,19 @@
+body{
+	text-align:center;
+}
+
+.wallpaper{
+  background-image: url("../images/wallpaper.jpeg");
+  
+}
+
+.text-muted{
+	color: green;
+}
+.last-seconds{
+  color: rgb(226, 26, 26);
+}
+.option{
+  margin: 15px;
+  
+}
