@@ -9,4 +9,19 @@ When you click Start, you will be given 10 multiple-choice questions covering th
 
 
 **Technology**
-This project was built with JavaScript, jQuery, Bootstrap, HTML, and CSS. Most all of the HTML content is generated dynamically through JavaScript.
+
+
+This project was built with: 
+
+HTML5
+
+CSS3
+
+JavaScript, 
+
+jQuery, and 
+
+Bootstrap.
+
+
+Most all of the HTML content is generated dynamically through JavaScript.
