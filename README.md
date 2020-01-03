@@ -15,15 +15,15 @@ When you click Start, you will be given 10 multiple-choice questions covering ho
 
 This project was built with: 
 
-HTML5
+**HTML5**
 
-CSS3
+**CSS3**
 
-JavaScript, 
+**JavaScript** 
 
-jQuery, and 
+**jQuery** and 
 
-Bootstrap.
+**Bootstrap**
 
 
 Most all of the HTML content is generated dynamically through JavaScript.
